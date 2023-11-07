@@ -8,6 +8,8 @@ Este portafolio de GitHub es un escaparate de mi aprendizaje y crecimiento en el
 Te invito a explorar mi portafolio. Si tienes alguna pregunta, idea de colaboración o simplemente deseas conectarte, no dudes en ponerte en contacto conmigo. ¡Gracias por tu tiempo y espero que disfrutes explorando mi trabajo!
 
 
+![hippo](https://giphy.com/gifs/aluraonline-coding-java-alura-hO8uTzEOefFh3Yv5gm)
+
 
 Hello, I’m Javier Ulloa Fierro, an aspiring programmer brimming with enthusiasm. My journey into the world of programming began with a Full Stack Java course conducted by Codingdojo and Forge. Through this course, I acquired skills in Java, SpringWeb, HTML, JavaScript, CSS, and JSP.
 
