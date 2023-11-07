@@ -19,6 +19,7 @@ Te invito a explorar mi portafolio. Si tienes alguna pregunta, idea de colaborac
 <br>
 <br>
 <br>
+
 ---
 
 <h1 align="center">Portfolio</h1>
