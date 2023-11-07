@@ -8,12 +8,12 @@ Este portafolio de GitHub es un escaparate de mi aprendizaje y crecimiento en el
 Te invito a explorar mi portafolio. Si tienes alguna pregunta, idea de colaboración o simplemente deseas conectarte, no dudes en ponerte en contacto conmigo. ¡Gracias por tu tiempo y espero que disfrutes explorando mi trabajo!
 
 
-![CSS3_logo_and_wordmark svg](https://github.com/ViesTreet/Portafolio/assets/139316713/7fd1bc3f-ed1e-43b9-b141-b6361796e987)
-![HTML5_logo_and_wordmark svg](https://github.com/ViesTreet/Portafolio/assets/139316713/f329c8bc-824d-49ea-a52e-7848a2a3160d)
-![Java-logo-PNG1](https://github.com/ViesTreet/Portafolio/assets/139316713/a3713566-d60e-4cae-a49c-632bf6d27c4e)
-![JavaScript-logo-PNG](https://github.com/ViesTreet/Portafolio/assets/139316713/fceadd61-631c-4c4e-bfe1-2adc04aeb0cc)
-![formato-de-archivo-abierto-jsp-con-logotipo-de-java](https://github.com/ViesTreet/Portafolio/assets/139316713/ab737678-61e5-45c5-975e-462ed36c3dd1)
-![2560px-Spring_Framework_Logo_2018 svg](https://github.com/ViesTreet/Portafolio/assets/139316713/8f186a14-4f95-45c5-9fd3-222b5bce0d27)
+![CSS3_logo](https://github.com/ViesTreet/Portafolio/assets/139316713/7fd1bc3f-ed1e-43b9-b141-b6361796e987){width=40px height=40px}
+![HTML5_logo_](https://github.com/ViesTreet/Portafolio/assets/139316713/f329c8bc-824d-49ea-a52e-7848a2a3160d){width=40px height=40px}
+![Java logo PNG1](https://github.com/ViesTreet/Portafolio/assets/139316713/a3713566-d60e-4cae-a49c-632bf6d27c4e){width=40px height=40px}
+![JavaScript logo](https://github.com/ViesTreet/Portafolio/assets/139316713/fceadd61-631c-4c4e-bfe1-2adc04aeb0cc){width=40px height=40px}
+![jsp Logo](https://github.com/ViesTreet/Portafolio/assets/139316713/ab737678-61e5-45c5-975e-462ed36c3dd1){width=40px height=40px}
+![Spring_Framework_Logo](https://github.com/ViesTreet/Portafolio/assets/139316713/8f186a14-4f95-45c5-9fd3-222b5bce0d27){width=40px height=40px}
 
 
 
