@@ -1,6 +1,4 @@
-<p align="center">
-  <h1>Portafolio</h1>
-</p>
+<h1>Portafolio</h1>
 
 Hola, soy Javier Ulloa Fierro, un entusiasta programador en ciernes. Mi viaje en el mundo de la programación comenzó con un curso Full Stack Java impartido por Codingdojo y Forge. A través de este curso, adquirí habilidades en Java, SpringWeb, HTML, JavaScript, CSS y JSP. Mi curiosidad y pasión por la programación no se detienen ahí. Estoy ansioso por expandir mi conjunto de habilidades aprendiendo nuevos lenguajes de programación como Python, C#, C++, entre otros. Además, estoy interesado en explorar campos emocionantes como el aprendizaje automático, la creación de aplicaciones móviles y la ciberseguridad.
 
@@ -9,12 +7,12 @@ Este portafolio de GitHub es un escaparate de mi aprendizaje y crecimiento en el
 Te invito a explorar mi portafolio. Si tienes alguna pregunta, idea de colaboración o simplemente deseas conectarte, no dudes en ponerte en contacto conmigo. ¡Gracias por tu tiempo y espero que disfrutes explorando mi trabajo!
 
 <p align="center">
-  <img src="https://github.com/ViesTreet/Portafolio/assets/139316713/7fd1bc3f-ed1e-43b9-b141-b6361796e987" width="auto" height="40">
-  <img src="https://github.com/ViesTreet/Portafolio/assets/139316713/f329c8bc-824d-49ea-a52e-7848a2a3160d" width="auto" height="40">
-  <img src="https://github.com/ViesTreet/Portafolio/assets/139316713/a3713566-d60e-4cae-a49c-632bf6d27c4e" width="auto" height="40">
-  <img src="https://github.com/ViesTreet/Portafolio/assets/139316713/fceadd61-631c-4c4e-bfe1-2adc04aeb0cc" width="auto" height="40">
-  <img src="https://github.com/ViesTreet/Portafolio/assets/139316713/ab737678-61e5-45c5-975e-462ed36c3dd1" width="auto" height="40">
-  <img src="https://github.com/ViesTreet/Portafolio/assets/139316713/8f186a14-4f95-45c5-9fd3-222b5bce0d27" width="auto" height="40">
+  <img src="https://github.com/ViesTreet/Portafolio/assets/139316713/7fd1bc3f-ed1e-43b9-b141-b6361796e987" style="margin: 10px;" width="40" height="40">
+  <img src="https://github.com/ViesTreet/Portafolio/assets/139316713/f329c8bc-824d-49ea-a52e-7848a2a3160d" style="margin: 10px;" width="40" height="40">
+  <img src="https://github.com/ViesTreet/Portafolio/assets/139316713/a3713566-d60e-4cae-a49c-632bf6d27c4e" style="margin: 10px;" width="40" height="40">
+  <img src="https://github.com/ViesTreet/Portafolio/assets/139316713/fceadd61-631c-4c4e-bfe1-2adc04aeb0cc" style="margin: 10px;" width="40" height="40">
+  <img src="https://github.com/ViesTreet/Portafolio/assets/139316713/ab737678-61e5-45c5-975e-462ed36c3dd1" style="margin: 10px;" width="40" height="40">
+  <img src="https://github.com/ViesTreet/Portafolio/assets/139316713/8f186a14-4f95-45c5-9fd3-222b5bce0d27" style="margin: 10px;" width="40" height="40">
 </p>
 
 
