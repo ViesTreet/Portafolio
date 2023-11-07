@@ -1,4 +1,4 @@
-<h1>Portafolio</h1>
+<h1 align="center">Portafolio</h1>
 
 Hola, soy Javier Ulloa Fierro, un entusiasta programador en ciernes. Mi viaje en el mundo de la programación comenzó con un curso Full Stack Java impartido por Codingdojo y Forge. A través de este curso, adquirí habilidades en Java, SpringWeb, HTML, JavaScript, CSS y JSP. Mi curiosidad y pasión por la programación no se detienen ahí. Estoy ansioso por expandir mi conjunto de habilidades aprendiendo nuevos lenguajes de programación como Python, C#, C++, entre otros. Además, estoy interesado en explorar campos emocionantes como el aprendizaje automático, la creación de aplicaciones móviles y la ciberseguridad.
 
@@ -14,6 +14,7 @@ Te invito a explorar mi portafolio. Si tienes alguna pregunta, idea de colaborac
   <img src="https://github.com/ViesTreet/Portafolio/assets/139316713/ab737678-61e5-45c5-975e-462ed36c3dd1" width="auto" height="50px" style="margin: 10px;">
   <img src="https://github.com/ViesTreet/Portafolio/assets/139316713/8f186a14-4f95-45c5-9fd3-222b5bce0d27" width="auto" height="50px" style="margin: 10px;">
 </p>
+
 
 
 
