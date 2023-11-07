@@ -8,7 +8,13 @@ Este portafolio de GitHub es un escaparate de mi aprendizaje y crecimiento en el
 Te invito a explorar mi portafolio. Si tienes alguna pregunta, idea de colaboración o simplemente deseas conectarte, no dudes en ponerte en contacto conmigo. ¡Gracias por tu tiempo y espero que disfrutes explorando mi trabajo!
 
 
-![hippo](https://giphy.com/gifs/aluraonline-coding-java-alura-hO8uTzEOefFh3Yv5gm)
+![CSS3_logo_and_wordmark svg](https://github.com/ViesTreet/Portafolio/assets/139316713/7fd1bc3f-ed1e-43b9-b141-b6361796e987)
+![HTML5_logo_and_wordmark svg](https://github.com/ViesTreet/Portafolio/assets/139316713/f329c8bc-824d-49ea-a52e-7848a2a3160d)
+![Java-logo-PNG1](https://github.com/ViesTreet/Portafolio/assets/139316713/a3713566-d60e-4cae-a49c-632bf6d27c4e)
+![JavaScript-logo-PNG](https://github.com/ViesTreet/Portafolio/assets/139316713/fceadd61-631c-4c4e-bfe1-2adc04aeb0cc)
+![formato-de-archivo-abierto-jsp-con-logotipo-de-java](https://github.com/ViesTreet/Portafolio/assets/139316713/ab737678-61e5-45c5-975e-462ed36c3dd1)
+![2560px-Spring_Framework_Logo_2018 svg](https://github.com/ViesTreet/Portafolio/assets/139316713/8f186a14-4f95-45c5-9fd3-222b5bce0d27)
+
 
 
 Hello, I’m Javier Ulloa Fierro, an aspiring programmer brimming with enthusiasm. My journey into the world of programming began with a Full Stack Java course conducted by Codingdojo and Forge. Through this course, I acquired skills in Java, SpringWeb, HTML, JavaScript, CSS, and JSP.
