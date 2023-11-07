@@ -6,6 +6,8 @@ Este portafolio de GitHub es un escaparate de mi aprendizaje y crecimiento en el
 
 Te invito a explorar mi portafolio. Si tienes alguna pregunta, idea de colaboración o simplemente deseas conectarte, no dudes en ponerte en contacto conmigo. ¡Gracias por tu tiempo y espero que disfrutes explorando mi trabajo!
 
+<br>
+
 <table align="center" style="border: none;">
   <tr>
     <td style="border: none;"><img src="https://github.com/ViesTreet/Portafolio/assets/139316713/7fd1bc3f-ed1e-43b9-b141-b6361796e987" width="auto" height="50px"></td>
@@ -29,6 +31,8 @@ Hello, I'm Javier Ulloa, an aspiring programmer brimming with enthusiasm. My jou
 This GitHub portfolio is a showcase of my learning and growth in the field of programming. Here, you'll find a collection of my works that reflect my dedication and commitment to coding.
 
 I invite you to explore my portfolio. If you have any questions, collaboration ideas, or simply wish to connect, feel free to reach out to me. Thank you for your time, and I hope you enjoy exploring my work!
+
+<br>
 
 <table align="center" style="border: none;">
   <tr>
