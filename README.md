@@ -8,7 +8,7 @@ Este portafolio de GitHub es un escaparate de mi aprendizaje y crecimiento en el
 Te invito a explorar mi portafolio. Si tienes alguna pregunta, idea de colaboración o simplemente deseas conectarte, no dudes en ponerte en contacto conmigo. ¡Gracias por tu tiempo y espero que disfrutes explorando mi trabajo!
 
 
-![CSS3_logo](https://github.com/ViesTreet/Portafolio/assets/139316713/7fd1bc3f-ed1e-43b9-b141-b6361796e987){width=40px height=40px}
+![CSS3_logo](https://github.com/ViesTreet/Portafolio/assets/139316713/7fd1bc3f-ed1e-43b9-b141-b6361796e987{width=40px height=40px})
 ![HTML5_logo_](https://github.com/ViesTreet/Portafolio/assets/139316713/f329c8bc-824d-49ea-a52e-7848a2a3160d){width=40px height=40px}
 ![Java logo PNG1](https://github.com/ViesTreet/Portafolio/assets/139316713/a3713566-d60e-4cae-a49c-632bf6d27c4e){width=40px height=40px}
 ![JavaScript logo](https://github.com/ViesTreet/Portafolio/assets/139316713/fceadd61-631c-4c4e-bfe1-2adc04aeb0cc){width=40px height=40px}
