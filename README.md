@@ -16,7 +16,9 @@ Te invito a explorar mi portafolio. Si tienes alguna pregunta, idea de colaborac
     <td style="border: none;"><img src="https://github.com/ViesTreet/Portafolio/assets/139316713/8f186a14-4f95-45c5-9fd3-222b5bce0d27" width="auto" height="50px"></td>
   </tr>
 </table>
-
+<br>
+<br>
+<br>
 ---
 
 <h1 align="center">Portfolio</h1>
@@ -37,3 +39,6 @@ I invite you to explore my portfolio. If you have any questions, collaboration i
     <td style="border: none;"><img src="https://github.com/ViesTreet/Portafolio/assets/139316713/8f186a14-4f95-45c5-9fd3-222b5bce0d27" width="auto" height="50px"></td>
   </tr>
 </table>
+<br>
+<br>
+<br>
