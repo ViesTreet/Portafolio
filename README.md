@@ -6,7 +6,7 @@ Este portafolio de GitHub es un escaparate de mi aprendizaje y crecimiento en el
 
 Te invito a explorar mi portafolio. Si tienes alguna pregunta, idea de colaboración o simplemente deseas conectarte, no dudes en ponerte en contacto conmigo. ¡Gracias por tu tiempo y espero que disfrutes explorando mi trabajo!
 
-<table align="center" border="0">
+<table align="center" border="0px">
   <tr>
     <td><img src="https://github.com/ViesTreet/Portafolio/assets/139316713/7fd1bc3f-ed1e-43b9-b141-b6361796e987" width="auto" height="50px"></td>
     <td><img src="https://github.com/ViesTreet/Portafolio/assets/139316713/f329c8bc-824d-49ea-a52e-7848a2a3160d" width="auto" height="50px"></td>
