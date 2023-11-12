@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.Ccontainer{
+    scroll-snap-type: y mandatory;
+    overflow-y: scroll;
+    height: 100vh;
+    width: 100vw;
+}
+
+section{
+    height: 100vh;
+    width: 100vw;
+    scroll-snap-align: start;
+    display: flex;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Poppins', sans-serif;
+    line-height: 1.2;
+}
+
+#primero {
+    background-color: #1a1a1a;
+    color: black;
+    background-image: url('/Logos/Wallpaper.png');
+    background-size: cover;
+    background-position: center;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#primero h1 {
+    z-index: 10;
+    text-align: center;
+    width: 100%;
+    font-size: 450%;
+}
+
+#primero span, #segundo span {
+    font-family: 'Poppins', sans-serif;
+    color: #3498db;
+}
+
+.textoInicio{
+    width: 100%;
+    height: 90%;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    animation: aparicion 5s 1 forwards;
+
+}
+
+.BotonConoceme {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    animation: aparicion 5s 1 forwards;
+}
+
+.Saltos {
+    animation: saltos 1s 3, aparicion 5s 1; /* 3 segundos de duración, 2 repeticiones, ease-in-out para una transición suave */
+}
+
+@keyframes saltos {
+    0%, 100% { transform: translateY(0px); }
+    50% { transform: translateY(-7px); }
+}
+
+@keyframes aparicion{
+    0% {
+        opacity: 0;
+        transform: translateY(-15px);
+    }
+    100%{
+        opacity: 1;
+        transform: translateY(0px);
+    }
+}
+
+.BotonConoceme:hover .Saltos {
+    animation: none;
+}
+
+.BotonConoceme a:hover {
+    color: #3498db;
+    animation: none !important;
+}
+
+
+.BotonConoceme a{
+    text-decoration: none;
+    color: black;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+}
+
+#segundo{
+    background-color: #f0f0f0;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.SobreMiCard{
+    width: 40%;
+    height: 30%;
+    border: 1px dotted red;
+}
+
+#tercero{
+    background-color: white;
+}
+
+#cuarto{
+    background-color: #f0f0f0;
+}
+
+ 
