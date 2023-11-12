@@ -31,7 +31,7 @@ h1, h2, h3, h4, h5, h6 {
 #primero {
     background-color: #1a1a1a;
     color: black;
-    background-image: url('/Logos/Wallpaper.png');
+    background-image: url('Logos/Wallpaper.png');
     background-size: cover;
     background-position: center;
     flex-direction: column;
