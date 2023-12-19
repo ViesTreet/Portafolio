@@ -139,8 +139,11 @@ h1, h2, h3, h4, h5, h6 {
     transform: translateY(-50%);
     height: 800px;
     width: auto;
-  }
-  
+}
+
+.imgAbout img{
+    width: 600px;
+}
 
 #tercero{
     background-color: white;
