@@ -4,7 +4,7 @@ Hola, soy Javier Ulloa, un entusiasta programador en ciernes. Mi viaje en el mun
 
 Este portafolio de GitHub es un escaparate de mi aprendizaje y crecimiento en el campo de la programación. Aquí encontrarás una colección de mis trabajos que reflejan mi dedicación y mi compromiso con la codificación.
 
-Te invito a explorar mi portafolio. Si tienes alguna pregunta, idea de colaboración o simplemente deseas conectarte, no dudes en ponerte en contacto conmigo. ¡Gracias por tu tiempo y espero que disfrutes explorando mi trabajo!
+Te invito a explorar <a href="https://viestreet.github.io/Portafolio/">mi portafolio</a>. Si tienes alguna pregunta, idea de colaboración o simplemente deseas conectarte, no dudes en ponerte en contacto conmigo. ¡Gracias por tu tiempo y espero que disfrutes explorando mi trabajo! 
 
 <br>
 
@@ -30,7 +30,7 @@ Hello, I'm Javier Ulloa, an aspiring programmer brimming with enthusiasm. My jou
 
 This GitHub portfolio is a showcase of my learning and growth in the field of programming. Here, you'll find a collection of my works that reflect my dedication and commitment to coding.
 
-I invite you to explore my portfolio. If you have any questions, collaboration ideas, or simply wish to connect, feel free to reach out to me. Thank you for your time, and I hope you enjoy exploring my work!
+I invite you to explore <a href="https://viestreet.github.io/Portafolio/">my portfolio</a>. If you have any questions, collaboration ideas, or simply wish to connect, feel free to reach out to me. Thank you for your time, and I hope you enjoy exploring my work!
 
 <br>
 
