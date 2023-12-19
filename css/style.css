@@ -116,13 +116,31 @@ h1, h2, h3, h4, h5, h6 {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    position: relative;
 }
 
 .SobreMiCard{
-    width: 40%;
-    height: 30%;
-    border: 1px dotted red;
+    width: 45%;
+    height: auto;
+    background-color: #3498db;
+    color: white;
+    border: 2px solid #1e76b1;
+    padding: 5px;
+    text-align: center;
+    border-radius: 10px;
+    filter: drop-shadow(10px 5px 3px black);
+    z-index: 10;
 }
+
+.imgAbout {
+    position: absolute;
+    right: -80px; 
+    top: 40%; 
+    transform: translateY(-50%);
+    height: 800px;
+    width: auto;
+  }
+  
 
 #tercero{
     background-color: white;
