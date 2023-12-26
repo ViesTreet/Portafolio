@@ -46,7 +46,7 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 450%;
 }
 
-#primero span, #segundo span {
+#primero span, #segundo span, #tercero span, #cuarto span {
     font-family: 'Poppins', sans-serif;
     color: #3498db;
 }
@@ -72,7 +72,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .Saltos {
-    animation: saltos 1s 3, aparicion 5s 1; /* 3 segundos de duración, 2 repeticiones, ease-in-out para una transición suave */
+    animation: saltos 1s 3, aparicion 5s 1; 
 }
 
 @keyframes saltos {
@@ -129,28 +129,128 @@ h1, h2, h3, h4, h5, h6 {
     text-align: center;
     border-radius: 10px;
     filter: drop-shadow(10px 5px 3px black);
-    z-index: 10;
+    margin-bottom: 40px;
 }
 
 .imgAbout {
     position: absolute;
-    right: -80px; 
+    right: -120px; 
     top: 40%; 
     transform: translateY(-50%);
-    height: 800px;
+    height: 900px;
     width: auto;
+    z-index: 10;
 }
 
 .imgAbout img{
-    width: 600px;
+    width: 650px;
 }
 
 #tercero{
     background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+#presentacionProyecto {
+    transition: opacity 3s ease; /* Transición para la opacidad */
+    width: 100%;
+    text-align: center;
+}
+
+.project {
+    position: relative;
+    width: 45%;
+    height: 60%;
+    margin: 10px;
+    border: 2px solid #3498db;
+    filter: drop-shadow(5px 3px 1px black);
+    overflow: hidden;
+    cursor: pointer;
+}
+  
+.project-img {
+    width: 100%;
+    height: 100%;
+    transition: opacity 0.5s ease; /* Transición de opacidad */
+}
+  
+.project-info {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    opacity: 0;
+    transition: opacity 0.5s ease; /* Transición de opacidad */
+}
+
+.project-info p{
+    padding: 2px 5px 2px 5px;
+}
+
+.project-info h4{
+    text-align: center;
+    padding-top: 5px;
+}
+
+#Zenith{
+    border-image: linear-gradient(to right, #2c003e, #000066) 1;
+}
+
+#AnsCo{
+    border-image: linear-gradient(to right, #2c003e, #000066, #ff0000, #00ff00, #0000ff) 1;
+}
+
+.project:hover .project-img {
+    opacity: 0; /* Ocultar la imagen al pasar el mouse */
+}
+  
+.project:hover .project-info {
+    opacity: 1; /* Mostrar el texto informativo al pasar el mouse */
 }
 
 #cuarto{
     background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 
+.Contacto{
+    width: 40%;
+    height: 60%;
+    background-color: #3498db;
+    text-align: center;
+    color: white;
+    filter: drop-shadow(7px 2px 1px black);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.Contacto p, .Contacto a{
+    font-size: 20px;
+    padding: 7px 10px 7px 10px !important;
+    color: white;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 0 !important;
+}
+
+.Contacto a:hover{
+    color: #f0f0f0;
+}
+
+.Contacto i{
+    font-size: 30px;
+}
  
