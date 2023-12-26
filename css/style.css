@@ -233,6 +233,7 @@ h1, h2, h3, h4, h5, h6 {
     filter: drop-shadow(7px 2px 1px black);
     padding: 10px;
     border-radius: 10px;
+    margin-top: 25px;
 }
 
 .Contacto p, .Contacto a{
